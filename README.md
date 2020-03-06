@@ -1,7 +1,7 @@
-# 109_Block_Chain_note
-## This is for Block Chain note.
+## 區塊鏈(Block Chain) - 109/3 ~109/7
 
-## Week 1 (03/05 Thu.)
+Week 1 (03/05 Thu.)
+-----
 
 <br>區塊鏈介紹
 <br>由 點對點網路 + 分散式帳本技術 + 密碼學 + 共識機制 組成

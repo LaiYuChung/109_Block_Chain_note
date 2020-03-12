@@ -47,6 +47,6 @@ Week 2 (03/12 Thu.)
 
 Week 3 (03/19 Thu.)
 -----
-<br>Wait 
+<br>Wait for upload content...
 <br>
 

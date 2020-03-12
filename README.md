@@ -16,8 +16,9 @@ Week 1 (03/05 Thu.)
 <br>後端架構:Python Node.js
 <br>資料庫:MongoDB MySQL
 <br>智能合約:Solidity
+<br>找一個適合自己好搭配的前後端語言使用
 
-Week 2 (03/11 Thu.)
+Week 2 (03/12 Thu.)
 -----
 
 回應上週問題討論:
@@ -42,3 +43,10 @@ Week 2 (03/11 Thu.)
 <br>
 <br>比特幣
 <br>乙太坊
+
+
+Week 3 (03/19 Thu.)
+-----
+<br>Wait 
+<br>
+

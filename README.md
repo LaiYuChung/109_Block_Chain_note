@@ -9,14 +9,14 @@ Week 1 (03/05 Thu.)
 <br>[密碼學(Cryptography)](https://medium.com/d-d-mag/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E9%9C%80%E8%A6%81%E6%87%82%E4%B8%80%E9%BB%9E%E5%AF%86%E7%A2%BC%E5%AD%B8-709c090452aa)。
 [共識機制(Consensus)](https://medium.com/7sevencoin/%E5%85%B1%E8%AD%98%E6%A9%9F%E5%88%B6%E6%98%AF%E4%BB%80%E9%BA%BC%E5%91%A2-1d5565b80e52)。
 <br>
-<br>去中心化概念
+<br>[去中心化概念介紹](https://medium.com/cobinhood-%E4%B8%AD%E6%96%87%E5%A0%B1/%E5%8D%80%E5%A1%8A%E9%8F%88-%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96-%E5%88%86%E6%95%A3%E5%BC%8F%E5%B8%B3%E6%9C%AC-%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC%E9%97%9C%E4%BF%82-423fb0d1e55d)
 <br>Web1.0 Web2.0 Web3.0
 <br>
 <br>前端架構:HTML CSS Javascript
 <br>後端架構:Python Node.js
 <br>資料庫:MongoDB MySQL
 <br>智能合約:Solidity
-<br>找一個適合自己好搭配的前後端語言使用
+<br>以上找一個適合自己好搭配的前後端語言使用
 
 Week 2 (03/12 Thu.)
 -----
@@ -30,23 +30,24 @@ Week 2 (03/12 Thu.)
 
 <br>公開透明:公鑰 私鑰 地址
 <br>公鑰加密可用私鑰解密 反之亦然
-<br>使用[橢圓曲線算法]()
+<br>使用橢圓曲線算法:介紹[link1](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/43964/)、
+[link2](https://www.itread01.com/content/1546294330.html)
 <br>
 <br>建立錢包:錢包的目的只有紀錄，所有交易都在區塊中完成且大家都可以看到
 <br>
-<br>Proof of Work介紹:[link]()
+<br>Proof of Work介紹:[link](https://medium.com/@esambino/%E5%8D%80%E5%A1%8A%E9%8F%88%E5%85%B1%E8%AD%98%E6%A9%9F%E5%88%B6-pow-%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AD%89%E6%98%8E-proof-of-work-c9f63fd5ab97)
+<br>Proof of Stake介紹:[link](https://www.samsonhoi.com/386/blockchain-proof-of-stake)
 <br>
-<br>Proof of Stake介紹:[link]()
-<br>
-<br>區塊分岔
+<br>區塊分岔[介紹](https://medium.com/@crypto.peng/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%8D%80%E5%A1%8A%E9%8F%88%E5%88%86%E5%8F%89-%E4%BB%80%E9%BA%BC%E5%8F%88%E6%98%AF%E7%A1%AC%E5%88%86%E5%8F%89-%E8%BB%9F%E5%88%86%E5%8F%89-2246d1d28d84)
 <br>型態分類:公有鍊、私有鍊、聯盟鍊
 <br>
 <br>比特幣
 <br>乙太坊
-
+<br>待完成:新增介紹文字(0313紀錄)
+<br>
 
 Week 3 (03/19 Thu.)
 -----
-<br>Wait for upload content...
+<br>Waiting for upload content...
 <br>
 

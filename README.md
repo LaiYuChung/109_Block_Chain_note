@@ -43,11 +43,11 @@ Week 2 (03/12 Thu.)
 <br>
 <br>比特幣
 <br>乙太坊
-<br>待完成:新增介紹文字(0313紀錄)
+<br>待完成:新增文字敘述(0313紀錄)
 <br>
 
 Week 3 (03/19 Thu.)
 -----
-<br>Waiting for upload content...
+<br>Waiting for uploading the content...
 <br>
 

@@ -16,7 +16,9 @@ HW1 (finish before 3/26 15:00)
 <br>A:
 <br>
 <br>Q2-2:找一個你喜歡的Dapp，說明為什麼你最喜歡這個Dapp?
-<br>A:
+<br>A:[0xUniverse](https://0xuniverse.com/?utm_source=DappRadar&utm_content=visit-website)
+<br>這是一個探索銀河系星球的遊戲，自己可以建造火箭去探索其他未知的星球，星球有分成四個等級，越稀有的星球可以獲得的資源和利潤就越好，
+當然其中的交易都是使用區塊鏈的技術。
 <br>
 <br>Q2-3:他們用這些特性是有意義的嗎？還是為了區塊鏈而區塊鏈？
 <br>A:

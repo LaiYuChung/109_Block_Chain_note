@@ -15,7 +15,9 @@ HW1 (finish before 3/26 15:00)
 <br>
 <br>[DappRader](https://dappradar.com/)  介紹多個Dapp網站，可以去瀏覽其他人製作的網站
 <br>Q2-1:哪些Dapp(不一定是測試網，也可能是主網）是符合上兩堂課中的性質？
-<br>A:
+<br>A:[CryptoFriends](https://cryptofriends.vip/?utm_source=DappRadar&utm_content=visit-website#how-it-works):
+<br>有公開透明，增加收入，提供比較智慧的建議等特性。這個網站是利用智能合約，所以只要登錄錢包不需要輸入密碼就可以登入。
+<br>有幾種方式可以獲得推薦:其他用戶的推薦、上線進入系統，或是由系統推薦，層級越高可以獲得的收益越高。
 <br>
 <br>Q2-2:找一個你喜歡的Dapp，說明為什麼你最喜歡這個Dapp?
 <br>A:[0xUniverse](https://0xuniverse.com/?utm_source=DappRadar&utm_content=visit-website)

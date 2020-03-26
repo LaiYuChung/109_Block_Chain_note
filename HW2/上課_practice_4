@@ -1,0 +1,25 @@
+pragma solidity ^0.6.0; 
+contract math1 {
+    
+    math2 m = new math2();
+    
+    function sqr(int num) external view returns(int){
+        return m.square(num);
+    }
+    
+    function mul(int num1, int num2) external view returns(int){
+        return m.multiple(num1,num2);
+    }
+    
+}
+
+contract math2{
+    function square(int num) external pure returns (int){
+        return num*num;
+        //用interal就讀不到了
+    }
+    
+    function multiple(int first, int second) external pure returns (int){
+        return first*second;
+    }
+}

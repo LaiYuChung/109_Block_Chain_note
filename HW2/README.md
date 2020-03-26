@@ -4,6 +4,7 @@ HW2 (finish before 4/9)
 - 3/26智能合約介紹
 
 ### 實作一個銀行合約
+使用[remix](http://remix.ethereum.org/)
 
 <br>功能如下:
 

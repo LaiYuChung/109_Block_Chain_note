@@ -1,0 +1,24 @@
+pragma solidity ^0.6.0; 
+contract SimpleStorage {     
+    address[] public students;
+    
+    function addStudent(address studentAddress) public {
+        students.push(studentAddress);
+    }
+    function deleteStudent(uint256 studentindex) external {
+        delete students[studentindex];
+        //刪除輸入的index的資料
+        //還是有資料但是為0
+    }
+    
+    function getStudentLen() external view returns(uint256){
+        return students.length;
+        //取students的長度
+        //如果被刪除還是有算長度
+        //如果是全部刪除長度才為0
+    }
+    
+    function deleteStudent() external{
+        delete students;
+    }
+}

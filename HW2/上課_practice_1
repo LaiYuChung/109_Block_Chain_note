@@ -1,0 +1,22 @@
+pragma solidity ^0.6.0; 
+contract test {     
+    mapping (string => address) public students;
+    
+    function publicFun(string memory studentId, address studentAddress) public {
+        students[studentId] = studentAddress;
+        // 輸入ID ,address 之後可以輸入ID查address
+    }
+    
+    function externalFun(string calldata studentId,address studentAddress) external{
+        students[studentId] = studentAddress;
+        
+    }
+    function callpunblicFun(string memory studentId, address studentAddress) public {
+        publicFun(studentId,studentAddress);
+    }
+    
+    function callexternalFun(string calldata studentId,address studentAddress) external{
+        this.externalFun(studentId,studentAddress);
+        //call external func 花費較高
+    }
+}

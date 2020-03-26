@@ -4,10 +4,18 @@ HW2 (finish before 4/9)
 - 3/26智能合約介紹
 
 ### 實作一個銀行合約
+
 <br>功能如下:
-<br>存錢、提錢、轉帳、查詢餘額
-<br>帳戶註冊、有Fallback(捲款潛逃)、Constructor
-<br>基本防呆設計、mapping存取帳本
+
+#### 存錢: function deposit()
+#### 提錢: function withdraw(uint withdrawAmount)
+#### 轉帳: function tranfer(uint transferAmount)
+#### 查詢餘額: function getBalance()
+#### 帳戶註冊: function enroll(string accountName)
+#### Fallback(捲款潛逃): fallback() 確認是Owner捲款
+#### Constructor: 設定Owner
+#### 基本防呆設計: error message
+#### 使用mapping存取帳本
 
 
 

@@ -58,8 +58,8 @@ Week 3 (03/19 Thu.)
 
 Week 4 (03/26 Thu.)
 -----
-智能合約介紹
-<br>
+智能合約介紹與實作
+<br>紀錄:查詢一些function概念
 <br>
 
 Week 5 (04/09 Thu.)

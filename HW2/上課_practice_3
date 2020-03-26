@@ -1,0 +1,18 @@
+pragma solidity ^0.6.0; 
+contract SimpleStorage {
+    address payable public owner;
+    
+    constructor() public payable {
+        owner = msg.sender;
+    }
+    
+    fallback() external {
+        require(owner == msg.sender, "permission denied");
+        selfdestruct(owner);
+    }
+    
+    receive() external payable{
+        0xdD870fA1b7C4700F2BD7f44238821C26f7392148.transfer(msg.value);
+        
+    }
+}

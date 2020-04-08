@@ -1,4 +1,4 @@
-HW2
+
 
 pragma solidity ^0.6.0; 
 contract bank_contract {
@@ -31,14 +31,15 @@ contract bank_contract {
     }
 
 //從balances回傳使用者的銀行帳戶餘額
-    function getBalance() external view returns(uint256){
+    function getBalance(address studentAddress) external view returns(uint256){
         require(owner == msg.sender, "permission denied");
+        return balances[studentAddress];
     }
     
 //回傳銀行合約的所有餘額，設定為只有owner才能呼叫成功
-    function getBankBalance() public view returns(uint256){
+    function getBankBalance(address studentAddress) public view returns(uint256){
         require(owner == msg.sender, "permission denied");
-        
+        return balances[studentAddress];
     }
 
 //透過students把學號映射到使用者的地址

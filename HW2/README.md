@@ -6,6 +6,8 @@ HW2 (finish before 4/9)
 ### 實作一個銀行合約
 使用[remix](http://remix.ethereum.org/)
 
+作業連結[HW2 - bank_contract]()
+
 <br>功能如下:
 
 #### 存錢: function deposit()

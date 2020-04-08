@@ -1,5 +1,9 @@
 ## 區塊鏈(Block Chain) - 109/3 ~109/7
 
+### 作業連結 : 
+[HW1](https://github.com/LaiYuChung/109_Block_Chain_note/tree/master/HW1)、
+[HW2](https://github.com/LaiYuChung/109_Block_Chain_note/blob/master/HW2/bank_contract)
+
 Week 1 (03/05 Thu.)
 -----
 

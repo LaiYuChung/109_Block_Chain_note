@@ -62,12 +62,18 @@ Week 3 (03/19 Thu.)
 
 Week 4 (03/26 Thu.)
 -----
-智能合約介紹與實作
+智能合約介紹與實作 Part 1
+[智能合約概念(目前無)]()
 <br>紀錄:查詢一些function概念
 <br>
 
 Week 5 (04/09 Thu.)
 -----
+智能合約介紹與實作 Part 2
 <br>Waiting for uploading the content...
 <br>
 
+Week 6 (04/16 Thu.)
+-----
+<br>Waiting for uploading the content...
+<br>

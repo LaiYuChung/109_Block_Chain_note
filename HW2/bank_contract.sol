@@ -30,16 +30,16 @@ contract bank_contract {
     }
 
 //從balances回傳使用者的銀行帳戶餘額--ok
-    function getBalance(uint256 current_balance) external returns(address studentAddress){
+    function getBalance() external returns(address studentAddress){
         require(owner == msg.sender, "permission denied");
-        balances[msg.sender] = current_balance;
+        balances[msg.sender] = balances[studentAddress];
         return msg.sender;
     }
     
 //回傳銀行合約的所有餘額，設定為只有owner才能呼叫成功
-    function getBankBalance(uint256 all_balance) public returns(address studentAddress){
+    function getBankBalance() public returns(address studentAddress){
         require(owner == msg.sender, "permission denied");
-        balances[msg.sender] = all_balance;
+        balances[msg.sender] = balances[studentAddress];
         return msg.sender;
     }
 

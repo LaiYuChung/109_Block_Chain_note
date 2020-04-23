@@ -86,7 +86,7 @@ Week 7 (04/23 Thu.)
 <br>swarm-node
 <br>full-dode
 <br>permenode
-
+full-node: iri hornet
 
 
 Week 8 (04/30 Thu.)

@@ -47,6 +47,7 @@ Week 2 (03/12 Thu.)
 <br>
 <br>比特幣
 <br>乙太坊
+<br>算力
 <br>待完成:新增文字敘述(0313紀錄)
 <br>
 
@@ -71,10 +72,28 @@ Week 5 (04/09 Thu.)
 -----
 智能合約介紹與實作 Part 2
 <br>
-<br>Waiting for uploading the content...
-<br>
+<br>ERC20:[link]()
+<br>ERC721:[link]()
 
 Week 6 (04/16 Thu.)
 -----
+<br>google meet 線上: IOTA 介紹
+<br>
+
+Week 7 (04/23 Thu.)
+-----
+<br>IOTA nodes:
+<br>swarm-node
+<br>full-dode
+<br>permenode
+
+
+
+Week 8 (04/30 Thu.)
+-----
 <br>Waiting for uploading the content...
 <br>
+
+
+
+

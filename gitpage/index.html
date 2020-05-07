@@ -14,12 +14,18 @@
       <input type="text" id="fname" name="fname" size = "30px"><br>
       <label for="lname">Last name:</label><br>
       <input type="text" id="lname" name="lname" size = "30px"><br>
-      <input type="submit" value="Get Name">
+      <input type="submit" value="Get Name" onclick='processFormData();' />
       <input type="reset" value="Clear">
       </form>
       <script type="text/javascript">
-        var sender = document.getElementById('fname').value
-        alert(sender)
+
+        function processFormData() {
+          const fn = document.getElementById("fname");
+          const fname = fn.value;
+          const ln = document.getElementById("lname");
+          const lname = ln.value;
+          alert("你的姓名是:" + fname + lname);
+}
       </script>
       
       </body>

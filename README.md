@@ -91,9 +91,17 @@ full-node: iri hornet
 
 Week 8 (04/30 Thu.)
 -----
-<br>Waiting for uploading the content...
+<br>IOTA介紹
 <br>
 
+Week 9 (05/07 Thu.)
+-----
+<br>東吳幣前端實作講解
+<br>
 
+Week 10 (05/14 Thu.)
+-----
+<br>Waiting for uploading the content...
+<br>
 
 
